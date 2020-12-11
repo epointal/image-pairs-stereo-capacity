@@ -11,7 +11,7 @@
 ### Or from cdn
 
 ``` html
-<script src="https://cdn.jsdelivr.net/gh/IPGP/image-pairs-stereo-capacity@[tag]/howstereo_js/howstereo.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/IPGP/image-pairs-stereo-capacity@[tag]/js_version/howstereo.js"></script>
 ```
 
 ### Use in your script
